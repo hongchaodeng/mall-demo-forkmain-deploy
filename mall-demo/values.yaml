@@ -7,7 +7,7 @@ mall-admin:
   fullnameOverride: mall-admin
   image:
     repository: ghcr.io/hongchaodeng/mall
-    tag: df3fa13
+    tag: 6a3725b
   imagePullSecrets:
     - name: mall-demo-docker
   ingress:
